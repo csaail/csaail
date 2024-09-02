@@ -6,7 +6,7 @@ Software Developer
 
 kmvk
 
-* 🖥️  See my portfolio at [bitfolio]([https://csaail.github.io/bitfolio.github.io/])
+* 🖥️  See my portfolio at [bitfolio](https://csaail.github.io/bitfolio.github.io/)
 * ✉️  You can contact me at [saail.work@gmail.com](mailto:saail.work@gmail.com)
 * 🚀  I'm currently working on nothing
 * 🧠  I'm learning js, java, react, python
