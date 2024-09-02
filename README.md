@@ -8,7 +8,7 @@ kmvk
 
 * 🖥️  See my portfolio at [bitfolio](http://vfvddfvdvdvd)
 * ✉️  You can contact me at [saail.work@gmail.com](mailto:saail.work@gmail.com)
-* 🚀  I'm currently working on [Eclipse RCP development](http://hmm)
+* 🚀  I'm currently working on nothing
 * 🧠  I'm learning js, java, react, python
 * 🤝  I'm open to collaborating on literally any project
 
