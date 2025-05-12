@@ -3,7 +3,6 @@ Hi Devs, I'm Saail! 🐝
 
 ![68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966](https://github.com/user-attachments/assets/faefdf13-23da-4f28-a66b-de7b1687fa7b)
 </br>
-* 🖥️  See my portfolio at [bitfolio](https://csaail.github.io/bitfolio.github.io/)
 * ✉️  You can contact me at [saail.work@gmail.com](mailto:saail.work@gmail.com)
 * 🚀  I'm currently working on nothing
 * 🧠  I'm learning js, java, react, python
